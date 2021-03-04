@@ -1,16 +1,11 @@
-# myapp
+# Simple Calculator
 
-A new Flutter application.
+A Simple Calculator application for Android/iOS built using Flutter framework by Google
 
-## Getting Started
+## Screenshot
 
-This project is a starting point for a Flutter application.
+Light Mode Color Scheme
+![Screenshot_1614889669](https://user-images.githubusercontent.com/33687556/110026881-46e56e80-7d57-11eb-95fc-49084c896429.png)
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Dark Mode Color Scheme
+![Screenshot_1614858234](https://user-images.githubusercontent.com/33687556/110026934-582e7b00-7d57-11eb-9cad-a7b0e27fa23d.png)
